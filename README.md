@@ -7,3 +7,4 @@
 - Minhas características são: Atensioso, detalhista, focado e organizado.
 - Ah, também adoro jogar videogame, inclusive me adicione no Xbox Live e vamos jogar juntos <- AbutreZ.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=great-gatsby_icons=true)
