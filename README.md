@@ -5,7 +5,7 @@
 - Atualmente estou a procura de um estágio na área de Análise e Desenvolvimento de Sistemas.
 - Sou novo nesse ramo da programação, então estou buscando sempre melhorar meu aprendizado e meus projetos.
 - Minhas características são: Atensioso, detalhista, focado e organizado.
-- Ah, também adoro jogar videogame, inclusive me adicione no Xbox Live e vamos jogar juntos <- AbutreZ.
+- Ah, também adoro jogar videogame, inclusive me adicione no Xbox Live e vamos jogar juntos <- AbutreZ
 
 
 
