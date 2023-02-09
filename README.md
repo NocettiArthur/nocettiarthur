@@ -1,4 +1,4 @@
-## Muito prazer, Arthur aqui! Seja muito bem vindo! 👋
+## Muito prazer, Arthur aqui. Seja muito bem vindo! 👋
 
 - Tenho 22 anos e sou aquariano. 
 - Atualmente estou a procura de um estágio na área de programação.
