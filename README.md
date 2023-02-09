@@ -1,4 +1,4 @@
-## Me chamo Arthur Nocetti e seja muito bem vindo ao meu GitHub! 👋
+## Muito prazer, Arthur aqui! Seja muito bem vindo! 👋
 
 - Tenho 21 anos e sou aquariano.
 - Sou voluntário no ensino musical da igreja que frequento, estudei inglês onde obtive resultados de nível B1, faço faculdade de ADS, e sou apaixonado por futebol. 
