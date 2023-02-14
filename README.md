@@ -12,7 +12,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
- <img height="150px" align="right" alt="Lucas-hello" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">
 </div><br>
  <br>
 
