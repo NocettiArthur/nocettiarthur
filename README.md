@@ -2,7 +2,7 @@
 
 - Tenho 22 anos e sou aquariano. 
 - Atualmente estou a procura de um estágio na área de programação.
-- Sou novo nessa área da tecnologia, então estou buscando sempre melhorar meu aprendizado e meus projetos.
+- Sou iniciante nesta demanda, então estou buscando sempre melhorar meu aprendizado e meus projetos.
 - Minhas competências são: HTML, CSS, React.JS, React Native, Node.JS e Javascript.
 
 
