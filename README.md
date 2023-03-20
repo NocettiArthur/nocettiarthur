@@ -1,8 +1,9 @@
 ## Muito prazer, Arthur aqui. Seja muito bem vindo! 👋
 
-- Tenho 22 anos e sou aquariano. 
-- Atualmente estou a procura de um estágio na área de programação.
-- Sou iniciante nesta demanda, então estou buscando sempre melhorar meu aprendizado e meus projetos.
+- Tenho 22 anos e sou aspirante à desenvolvedor. 
+- Atualmente estou a procura de um estágio na área da programação.
+- Antes de me imaginar nesse ramo da tecnologia, trabalhei por 4 anos em uma empresa de família exercendo atividades contábeis e fiscais. 
+- Em 2022 inicei meus estudos e projetos, visando me tornar um grande profissional no mundo dos códigos.
 
 
 
