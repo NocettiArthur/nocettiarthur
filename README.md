@@ -2,7 +2,7 @@
 
 - Tenho 22 anos e sou aspirante à desenvolvedor. 
 - Antes de exercer atividades no mundo dos códigos, trabalhei por 4 longos anos em uma empresa de família exercendo atividades contábeis e fiscais. 
-- Em 2022 inicei meus estudos e projetos, e hoje busco me tornar um grande profissional realmente capacidade.
+- Estou buscando me tornar um grande profissional realmente capacitado.
 
 
 
