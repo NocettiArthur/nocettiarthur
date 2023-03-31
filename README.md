@@ -1,9 +1,8 @@
 ## Muito prazer, Arthur aqui! 👋
 
 - Tenho 22 anos e sou aspirante à desenvolvedor. 
-- Atualmente estou a procura de um estágio na área da programação.
-- Antes de me imaginar nesse ramo da tecnologia, trabalhei por 4 anos em uma empresa de família exercendo atividades contábeis e fiscais. 
-- Em 2022 inicei meus estudos e projetos, buscando me tornar um grande profissional no mundo dos códigos.
+- Antes de exercer atividades no mundo dos códigos, trabalhei por 4 longos anos em uma empresa de família exercendo atividades contábeis e fiscais. 
+- Em 2022 inicei meus estudos e projetos, e hoje busco me tornar um grande profissional realmente capacidade.
 
 
 
