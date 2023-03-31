@@ -1,4 +1,4 @@
-## Muito prazer, Arthur aqui. Seja muito bem vindo! 👋
+## Muito prazer, Arthur aqui. Seja bem vindo! 👋
 
 - Tenho 22 anos e sou aspirante à desenvolvedor. 
 - Atualmente estou a procura de um estágio na área da programação.
